@@ -1,0 +1,27 @@
+{
+    "name": "Game.Selection",
+    "rootNamespace": "Game.Selection",
+    "references": [
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Physics",
+        "Unity.Physics.Hybrid",
+        "Unity.Transforms",
+        "Unity.Transforms.Hybrid",
+        "ProjectDawn.Mathematics",
+        "ProjectDawn.Geometry",
+        "Game.Controls"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
