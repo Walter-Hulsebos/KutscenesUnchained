@@ -2,7 +2,14 @@
     "name": "Game.Controls",
     "rootNamespace": "Game.Controls",
     "references": [
-        "Unity.Mathematics"
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Burst",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.InputSystem",
+        "ProjectDawn.Mathematics",
+        "ProjectDawn.Collections"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
