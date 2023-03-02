@@ -13,7 +13,10 @@
         "Unity.Transforms.Hybrid",
         "ProjectDawn.Mathematics",
         "ProjectDawn.Geometry",
-        "Game.Controls"
+        "ALINE",
+        "Game.Controls",
+        "Game.Teams",
+        "Game.Utils"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
